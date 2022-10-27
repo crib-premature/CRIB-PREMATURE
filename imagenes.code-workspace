@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "imagenes",
+			"path": "../../Pictures/imagenes"
+		},
+		{
+			"name": "pagina web",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pagina web"
+	}
+}
